@@ -1,6 +1,6 @@
 # E-commerce - Webdev (Demo)
 
-# Portuguese ReadMe [Português](README_PT.md)
+# Portuguese Readme [Português](README_PT.md)
 ## Overview
 Academic project simulating a basic e-commerce with catalog, shopping cart, and checkout flow (simulated). Demonstrates **front-end and back-end integration** and **CRUD operations**.
 
