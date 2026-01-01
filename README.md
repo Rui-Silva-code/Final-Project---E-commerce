@@ -58,7 +58,7 @@ basedados.php             -> Conexão com a base de dados
 
 ---
 
-## Próximos passos sugeridos
+## Próximos passos
 - Autenticação robusta com roles (admin / user)  
 - Implementação de testes e integração contínua (CI)  
 - Adição de paginação e filtros no catálogo
